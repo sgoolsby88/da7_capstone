@@ -15,11 +15,11 @@ The analysis for this capstone will be using Python for cleaning, sorting, and m
 
 ***Schedule***
 
-    1. Get the Data (11/10/2022) *done*
-    2. Clean & Explore the Data (12/10/2022) *done*
-    3. Create Presentation of Analysis (12/17/2022) *done*
-    4 Internal Demos (12/20/2022) *done*
-    5. Demo Day!! (1/5/2023)
+1. Get the Data (11/10/2022) *done*
+2. Clean & Explore the Data (12/10/2022) *done*
+3. Create Presentation of Analysis (12/17/2022) *done*
+4. Internal Demos (12/20/2022) *done*
+5. Demo Day!! (1/5/2023)
 
 ***Data Sources***
 
