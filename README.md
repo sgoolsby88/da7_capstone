@@ -23,10 +23,10 @@ The analysis for this capstone will be using Python for cleaning, sorting, and m
 
 ***Data Sources***
 
-[https://www.ncdrisc.org/data-downloads-adiposity.html]
-[https://ourworldindata.org/meat-production#number-of-animals-slaughtered]
-[https://ourworldindata.org/meat-production#per-capita-meat-consumption]
-[https://ourworldindata.org/grapher/obesity-in-men-vs-obesity-in-women]
+* [https://www.ncdrisc.org/data-downloads-adiposity.html]
+* [https://ourworldindata.org/meat-production#number-of-animals-slaughtered]
+* [https://ourworldindata.org/meat-production#per-capita-meat-consumption]
+* [https://ourworldindata.org/grapher/obesity-in-men-vs-obesity-in-women]
 
 Some statistics and refrences were also pulled from [https://www.who.int/] and [https://www.cdc.gov/]
 
